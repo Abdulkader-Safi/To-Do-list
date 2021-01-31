@@ -5,7 +5,7 @@
 * Written in Python
 * Uses Tkinter lib
 
-###Building from Source
+### Building from Source
 1. cd into src
 2. py2applet --make-setup todoList.py
 3. python setup.py py2app
