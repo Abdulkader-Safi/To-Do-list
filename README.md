@@ -6,5 +6,6 @@
 5. Uses Tkinter lib
 
 ### Follow Me
-* Instagram : https://www.instagram.com/abdulkader.safi/
-* twitter : https://twitter.com/AbdulkaderSafi
+> Instagram : https://www.instagram.com/abdulkader.safi/
+
+> twitter : https://twitter.com/AbdulkaderSafi
