@@ -5,6 +5,10 @@
 4. Written in Python
 5. Uses Tkinter lib
 
+
+To-Do-List mini project built it open source you can check the code and change it your needs
+
+
 ### Follow Me
 > Instagram : https://www.instagram.com/abdulkader.safi/
 
